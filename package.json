@@ -9,11 +9,11 @@
   "author": "Ryan Florence <rpflorence@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "ic-styled": "~1.1.6"
+    "ic-styled": "salzhrani/ic-styled#8c8d428f3ef652077ccd3f402c89550661612ad8"
   },
   "devDependencies": {
     "grunt": "~0.4.1",
-    "grunt-ember-templates": "~0.4.17",
+    "grunt-ember-templates": "~0.5.0",
     "grunt-contrib-watch": "~0.5.3",
     "grunt-contrib-concat": "~0.3.0",
     "grunt-contrib-clean": "~0.5.0",
