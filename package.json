@@ -9,7 +9,7 @@
   "author": "Ryan Florence <rpflorence@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "ic-styled": "~1.1.6"
+    "ic-styled": "~2.0.0"
   },
   "devDependencies": {
     "grunt": "~0.4.1",
